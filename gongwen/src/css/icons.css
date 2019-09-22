@@ -1,0 +1,89 @@
+.icon-liebiao {
+    width: 20px;
+    height: 25px;
+    background-image: url(../assets/icons/icon-liebiao.svg);
+}
+.icon-xiaoxi {
+    width: 30px;
+    height: 35px;
+    background-image: url(../assets/icons/icon-xiaoxi.svg);
+}
+.icon-shezhi {
+    width: 25px;
+    height: 37px;
+    background-image: url(../assets/icons/icon-shezhi.svg);
+}
+.icon-lianxiren {
+    width: 45px;
+    height:60px;
+    background-image: url(../assets/icons/icon-lianxiren.svg);
+}
+.icon-href {
+    width: 30px;
+    height: 35px;
+    background-image: url(../assets/icons/icon-href.svg);
+}
+.icon-kexuan {
+     display: inline-block;
+     width: 20px;
+     height: 20px;
+     -webkit-background-size: 100%;
+     background-size: 100%;
+     background-image: url(../assets/icons/icon-kexuan.svg);
+ }
+.icon-yuandian {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+    background-image: url(../assets/icons/icon-yuandian.svg);
+}
+.icon-seach {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+    background-image: url(../assets/icons/icon-seach.svg);
+}
+.icon-hide {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+    background-image: url(../assets/icons/icon-hide.svg);
+}
+.icon-kaishi {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+    background-image: url(../assets/icons/icon-kaishi.svg);
+}
+.icon-weiren {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+    background-image: url(../assets/icons/icon-weiren.svg);
+}
+.icon-yiren {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+    background-image: url(../assets/icons/icon-yiren.svg);
+}
+.icon-shaixuan {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+    background-image: url(../assets/icons/icon-shaixuan.svg);
+}
